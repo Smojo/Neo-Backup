@@ -8,7 +8,7 @@
 * [What is root access used for?](#what-is-root-access-used-for)
 * [Why is OABX so slow?](#why-is-oabx-so-slow)
 * [So why use SAF then?](#so-why-use-saf-then)
-* [I do not see any apps in the list. What can be the reason?](#i-do-not-see-any-apps-in-the-list--what-can-be-the-reason)
+* [I do not see any apps in the list. What can be the reason?](#i-do-not-see-any-apps-in-the-list-what-can-be-the-reason)
 * [How can I backup SMS &amp; Call log?](#how-can-i-backup-sms--call-log)
 * [Are you going to support older Android versions?](#are-you-going-to-support-older-android-versions)
 * [Why do I have to login/register to app x y z again after restore?](#why-do-i-have-to-loginregister-to-app-x-y-z-again-after-restore)
